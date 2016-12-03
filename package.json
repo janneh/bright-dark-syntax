@@ -1,0 +1,11 @@
+{
+  "name": "bright-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme adapted to match Bright Dark UI theme",
+  "repository": "https://github.com/janneh/bright-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
