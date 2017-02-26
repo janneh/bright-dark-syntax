@@ -12,6 +12,6 @@ apm install bright-dark-syntax
 
 ### Preview
 
-![Brigth Dark Syntax](/assets/bright-dark-syntax.png?raw=true "Brigth Dark Syntax")
+![Brigth Dark Syntax](https://raw.githubusercontent.com/janneh/bright-dark-syntax/master/assets/bright-dark-syntax.png)
 
 hello <(o.o<)
