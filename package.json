@@ -3,9 +3,17 @@
   "theme": "syntax",
   "version": "0.3.0",
   "description": "A dark syntax theme adapted to match Bright Dark UI theme",
+  "keywords": [
+    "dark",
+    "syntax"
+  ],
   "repository": "https://github.com/janneh/bright-dark-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
-  }
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "files": [
+    "index.less",
+    "styles/"
+  ]
 }
