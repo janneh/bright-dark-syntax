@@ -4,5 +4,5 @@
 ## 0.2.0 - Colors and syntax
 * Updated colors and syntaxes
 
-## 0.3.0 - Shadow DOM removal fix
+## 0.4.0 - Shadow DOM removal fix
 * Updated selectors for .atom-text-editor shadow DOM removal
